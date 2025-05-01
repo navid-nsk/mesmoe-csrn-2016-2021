@@ -1,0 +1,29 @@
+{
+    "trial_number": 15,
+    "hidden_dims": [
+        34,
+        18,
+        4
+    ],
+    "coord_embed_dim": 12,
+    "attention_heads": 2,
+    "dropout_rate": 0.3668025930301808,
+    "colonization_threshold": 0.13737253241196468,
+    "colonization_expert_weight": 0.6301439991885139,
+    "colonization_weight": 1.6065129344807514,
+    "jump_threshold": 51.976509869501044,
+    "jump_expert_weight": 0.7134420570816513,
+    "jump_weight": 4.6650256298244726,
+    "decline_threshold": 50.00232439237377,
+    "decline_expert_weight": 0.7736800860721864,
+    "decline_weight": 6.8003301061244645,
+    "pde_expert_weight": 0.604358681197161,
+    "pde_weight": 9.775508877291248,
+    "learning_rate": 0.0009901669196149719,
+    "weight_decay": 4.4412796733158924e-07,
+    "timestamp": "2025-04-25 17:45:54",
+    "device": "cuda:0",
+    "best_val_loss": 892.9078192352363,
+    "best_val_r2": 0.7268782215134972,
+    "epochs_trained": 17
+}
